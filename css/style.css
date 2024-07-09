@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 0.8px;
+}
+body{
+    width: 1920px;
+    margin: 0 auto;
+    font-family: "Lato", sans-serif;
+}
+ul,li, a{
+    text-decoration: none;
+    list-style: none;
+}
+/*Banner Section Style Start Here*/
+.banner_container{
+    width: 1320px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.banner_left_content{
+    margin-right: 97px;
+}
+.banner_container h1{
+    width: 708px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 197px;
+}
+.banner_container p{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.banner_container button{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    border: none;
+}
+.banner_container button a{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.banner_right_content{
+    width: 635px;
+    height: 800px;
+    margin-top: 50px;
+}
+/*Banner Section Style End Here*/
+
+/*Featured Flowers Section Style Start Here*/
+/*Featured Flowers Section Style End Here*/
+
+/*Delivery Section Style Start Here*/
+/*Delivery Section Style End Here*/
+
+/*Sign Up Section Style Start Here*/
+/*Sign Up Section Style End Here*/
+
+/*Instagram Section Style Start Here*/
+/*Instagram Section Style End Here*/
+
+/*Latest Deals Section Style Start Here*/
+/*Latest Deals Section Style End Here*/
+
+/*Footer Section Style Start Here*/
+/*Footer Section Style End Here*/
